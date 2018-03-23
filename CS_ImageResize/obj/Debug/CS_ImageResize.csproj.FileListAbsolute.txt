@@ -1,0 +1,8 @@
+C:\Users\usernb\Desktop\CS_ImageResize\CS_ImageResize\bin\Debug\CS_ImageResize.exe
+C:\Users\usernb\Desktop\CS_ImageResize\CS_ImageResize\bin\Debug\CS_ImageResize.pdb
+C:\Users\usernb\Desktop\CS_ImageResize\CS_ImageResize\obj\Debug\CS_ImageResize.csprojResolveAssemblyReference.cache
+C:\Users\usernb\Desktop\CS_ImageResize\CS_ImageResize\obj\Debug\CS_ImageResize.Properties.Resources.resources
+C:\Users\usernb\Desktop\CS_ImageResize\CS_ImageResize\obj\Debug\CS_ImageResize.csproj.GenerateResource.Cache
+C:\Users\usernb\Desktop\CS_ImageResize\CS_ImageResize\obj\Debug\CS_ImageResize.exe
+C:\Users\usernb\Desktop\CS_ImageResize\CS_ImageResize\obj\Debug\CS_ImageResize.pdb
+C:\Users\usernb\Desktop\CS_ImageResize\CS_ImageResize\obj\Debug\CS_ImageResize.Form1.resources
